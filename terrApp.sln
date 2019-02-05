@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "terrApp.Android", "terrApp\terrApp.Android\terrApp.Android.csproj", "{CE7F63B5-B277-43D5-940B-0EC6344F65ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "terrApp", "terrApp\terrApp\terrApp.csproj", "{A1053C71-EDE5-4944-AF18-AA1816BB0A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE7F63B5-B277-43D5-940B-0EC6344F65ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7F63B5-B277-43D5-940B-0EC6344F65ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7F63B5-B277-43D5-940B-0EC6344F65ED}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CE7F63B5-B277-43D5-940B-0EC6344F65ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7F63B5-B277-43D5-940B-0EC6344F65ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE7F63B5-B277-43D5-940B-0EC6344F65ED}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A1053C71-EDE5-4944-AF18-AA1816BB0A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1053C71-EDE5-4944-AF18-AA1816BB0A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1053C71-EDE5-4944-AF18-AA1816BB0A2A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A1053C71-EDE5-4944-AF18-AA1816BB0A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1053C71-EDE5-4944-AF18-AA1816BB0A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1053C71-EDE5-4944-AF18-AA1816BB0A2A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2DEA41D-6956-4792-BDCF-4A6352BAA464}
+	EndGlobalSection
+EndGlobal
