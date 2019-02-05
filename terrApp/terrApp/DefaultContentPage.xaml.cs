@@ -20,7 +20,7 @@ namespace terrApp
         private void Button_Clicked(object sender, EventArgs e)
         {
             //Chamar tela de listagem de produtos
-            //Application.Current.MainPage = new 
+            Application.Current.MainPage = new LstProdutos();
         }
     }
 }

@@ -112,6 +112,12 @@ C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\nv.png
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\photo.png
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable-xhdpi\ic_launcher.png
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\p3.jpg
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\p1.jpeg
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\p2.jpg
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\amora.jpeg
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\cenoura.jpeg
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\pepino.jpeg
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\bin\Debug\netstandard2.0\terrApp.dll
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\bin\Debug\terrApp.dll.mdb
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\linksrc\terrApp.dll.mdb
