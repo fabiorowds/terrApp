@@ -8,4 +8,6 @@ C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\bin\Debug\netstandard2.0\terrApp.pdb
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\terrApp.dll
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\terrApp.pdb
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\CadItem.xaml.g.cs
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\terrApp.csprojAssemblyReference.cache

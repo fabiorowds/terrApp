@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="terrApp.CadItem">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="txtNome" Placeholder="Nome"/>
+            <Entry x:Name="txtDescricao" Placeholder="Descrição"/>
+            <Entry x:Name="txtValor" Placeholder="Valor" Keyboard="Numeric"/>
+            <Button Text="Capturar Foto" Clicked="Button_Clicked"/>
+            <Image x:Name="imgFoto" WidthRequest="500" HeightRequest="500" />
+            <Button Text="Salvar" Clicked="Button_Clicked_1"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

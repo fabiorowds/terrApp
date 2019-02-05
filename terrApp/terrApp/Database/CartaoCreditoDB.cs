@@ -27,7 +27,7 @@ namespace terrApp.Database
             return database.Table<CartaoCredito>().Where(i => i.ID == ID).FirstOrDefaultAsync();
         }
 
-        public Task<int> SaveCartaoCreditoAsync(CartaoCredito cartaoCredito)
+        public Task<int> SaveSecaoAsync(CartaoCredito cartaoCredito)
         {
             if (cartaoCredito.ID != 0)
             {
