@@ -103,6 +103,15 @@ C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\and
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\alface.jpg
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\check.png
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\ic_launcherhome.png
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\ic_launcherhomeg.png
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\ic_launcherhomem.png
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\ic_launcherhomep.png
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\nv.png
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\photo.png
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable-xhdpi\ic_launcher.png
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\bin\Debug\netstandard2.0\terrApp.dll
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\bin\Debug\terrApp.dll.mdb
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\linksrc\terrApp.dll.mdb

@@ -11,3 +11,7 @@ C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\CadItem.xaml.g.cs
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\terrApp.csprojAssemblyReference.cache
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\View\CadUsuario.xaml.g.cs
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\View\ListarProdutos.xaml.g.cs
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\CadProdutos.xaml.g.cs
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\DefaultContentPage.xaml.g.cs

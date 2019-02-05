@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="terrApp.DefaultContentPage">
+    <ContentPage.Content>
+        <StackLayout Spacing="10" x:Name="layout">
+            <StackLayout BackgroundColor="#5dce00" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Padding="0,60,0,0">
+                <Image Source="ic_launcherHome.png" VerticalOptions="Center" HorizontalOptions="Center"/>
+            </StackLayout>
+            <StackLayout BackgroundColor="#ffffff" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" Padding="0,60,0,60">
+                <Button Clicked="Button_Clicked" BackgroundColor="#4267b2" Text="Entrar com Facebook" HorizontalOptions="CenterAndExpand" WidthRequest="200" TextColor="White"/>
+                <Button Clicked="Button_Clicked" BackgroundColor="WhiteSmoke" Text="Entrar com Email" HorizontalOptions="CenterAndExpand" WidthRequest="200" TextColor="#2c3d1e"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

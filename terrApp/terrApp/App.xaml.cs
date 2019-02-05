@@ -96,7 +96,7 @@ namespace terrApp
 
             //MainPage = new MainPage();
 
-            MainPage = new CadItem();
+            MainPage = new CadProdutos();
         }
 
         protected override void OnStart()

@@ -11,10 +11,10 @@ namespace terrApp.Model
         public int ID { get; set; }
         public string Email { get; set; }
         public string Nome { get; set; }
-        public string Senha { get; set; }
-        public long Latitude { get; set; }
-        public long Longitude { get; set; }
+        public string Telefone { get; set; }
         public string CPF { get; set; }
+        public string Endereco { get; set; }
+        public string IdnVendedor { get; set; }
         public int IDCartao { get; set; }
     }
 }
