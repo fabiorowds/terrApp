@@ -69,7 +69,7 @@ namespace terrApp
             }
             if (await App.DbItem.SaveItemAsync(item) == 1)
             {
-                await DisplayAlert("Atenção!", "Item gravado com sucesso!", "OK");
+                await DisplayAlert("Atenção!", "Item " + item.ID + " gravado com sucesso!", "OK");
                 LimparCampos();
             }
             else

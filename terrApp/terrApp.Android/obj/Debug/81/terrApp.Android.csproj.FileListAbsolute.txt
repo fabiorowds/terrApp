@@ -118,6 +118,8 @@ C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\amora.jpeg
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\cenoura.jpeg
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\pepino.jpeg
-C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\bin\Debug\netstandard2.0\terrApp.dll
-C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\bin\Debug\terrApp.dll.mdb
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\addchart.png
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\chart_bq.png
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\chartbq.png
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\res\drawable\configbq.png
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp.Android\obj\Debug\81\linksrc\terrApp.dll.mdb

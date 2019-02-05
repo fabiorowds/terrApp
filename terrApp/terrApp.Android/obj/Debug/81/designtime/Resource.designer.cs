@@ -2340,10 +2340,13 @@ namespace terrApp.Droid
 			public const int abc_vector_test = 2131296339;
 			
 			// aapt resource value: 0x7F010002
-			public const int alface = 2130771970;
+			public const int AddChart = 2130771970;
 			
 			// aapt resource value: 0x7F010003
-			public const int Amora = 2130771971;
+			public const int alface = 2130771971;
+			
+			// aapt resource value: 0x7F010004
+			public const int Amora = 2130771972;
 			
 			// aapt resource value: 0x7F090054
 			public const int avd_hide_password = 2131296340;
@@ -2351,11 +2354,20 @@ namespace terrApp.Droid
 			// aapt resource value: 0x7F090055
 			public const int avd_show_password = 2131296341;
 			
-			// aapt resource value: 0x7F010004
-			public const int Cenoura = 2130771972;
-			
 			// aapt resource value: 0x7F010005
-			public const int Check = 2130771973;
+			public const int Cenoura = 2130771973;
+			
+			// aapt resource value: 0x7F010006
+			public const int ChartBq = 2130771974;
+			
+			// aapt resource value: 0x7F010007
+			public const int Chart_Bq = 2130771975;
+			
+			// aapt resource value: 0x7F010008
+			public const int Check = 2130771976;
+			
+			// aapt resource value: 0x7F010009
+			public const int ConfigBq = 2130771977;
 			
 			// aapt resource value: 0x7F090056
 			public const int design_bottom_navigation_item_background = 2131296342;
@@ -2483,20 +2495,20 @@ namespace terrApp.Droid
 			// aapt resource value: 0x7F090077
 			public const int ic_group_expand_15 = 2131296375;
 			
-			// aapt resource value: 0x7F010016
-			public const int ic_launcher = 2130771990;
+			// aapt resource value: 0x7F010020
+			public const int ic_launcher = 2130772000;
 			
-			// aapt resource value: 0x7F010006
-			public const int ic_launcherHome = 2130771974;
+			// aapt resource value: 0x7F010010
+			public const int ic_launcherHome = 2130771984;
 			
-			// aapt resource value: 0x7F010007
-			public const int ic_launcherHomeG = 2130771975;
+			// aapt resource value: 0x7F010011
+			public const int ic_launcherHomeG = 2130771985;
 			
-			// aapt resource value: 0x7F010008
-			public const int ic_launcherHomeM = 2130771976;
+			// aapt resource value: 0x7F010012
+			public const int ic_launcherHomeM = 2130771986;
 			
-			// aapt resource value: 0x7F010009
-			public const int ic_launcherHomeP = 2130771977;
+			// aapt resource value: 0x7F010013
+			public const int ic_launcherHomeP = 2130771987;
 			
 			// aapt resource value: 0x7F090078
 			public const int ic_media_pause_dark = 2131296376;
@@ -3020,23 +3032,23 @@ namespace terrApp.Droid
 			// aapt resource value: 0x7F09000C
 			public const int notify_panel_notification_icon_bg = 2131296268;
 			
-			// aapt resource value: 0x7F010010
-			public const int nv = 2130771984;
-			
-			// aapt resource value: 0x7F010011
-			public const int p1 = 2130771985;
-			
-			// aapt resource value: 0x7F010012
-			public const int p2 = 2130771986;
-			
-			// aapt resource value: 0x7F010013
-			public const int p3 = 2130771987;
-			
 			// aapt resource value: 0x7F010014
-			public const int Pepino = 2130771988;
+			public const int nv = 2130771988;
 			
 			// aapt resource value: 0x7F010015
-			public const int Photo = 2130771989;
+			public const int p1 = 2130771989;
+			
+			// aapt resource value: 0x7F010016
+			public const int p2 = 2130771990;
+			
+			// aapt resource value: 0x7F010017
+			public const int p3 = 2130771991;
+			
+			// aapt resource value: 0x7F010018
+			public const int Pepino = 2130771992;
+			
+			// aapt resource value: 0x7F010019
+			public const int Photo = 2130771993;
 			
 			// aapt resource value: 0x7F090069
 			public const int tooltip_frame_dark = 2131296361;

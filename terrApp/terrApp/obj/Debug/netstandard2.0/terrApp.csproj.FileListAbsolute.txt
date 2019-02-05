@@ -17,3 +17,5 @@ C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\DefaultContentPage.xaml.g.cs
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\LstProdutos.xaml.g.cs
 C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\VerProduto.xaml.g.cs
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\View\Carrinho.xaml.g.cs
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\View\RealizarPagamento.xaml.g.cs
