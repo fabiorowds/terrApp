@@ -5,7 +5,7 @@ using System.Text;
 
 namespace terrApp.Model
 {
-    public class PedidoItens
+    public class PedidoItem
     {
         [PrimaryKey,AutoIncrement]
         public int ID { get; set; }
