@@ -1,0 +1,11 @@
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\bin\Debug\netstandard2.0\terrApp.deps.json
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\bin\Debug\netstandard2.0\terrApp.dll
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\terrApp.csproj.CoreCompileInputs.cache
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\terrApp.AssemblyInfoInputs.cache
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\terrApp.AssemblyInfo.cs
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\bin\Debug\netstandard2.0\terrApp.pdb
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\terrApp.dll
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\terrApp.pdb
+C:\Users\Delux\Documents\GitHub\terrApp\terrApp\terrApp\obj\Debug\netstandard2.0\terrApp.csprojAssemblyReference.cache
